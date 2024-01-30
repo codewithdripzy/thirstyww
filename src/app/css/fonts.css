@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'kyrilla-sans';
+    src: url(../fonts/kyrilla.ttf);
+}
+
+@font-face {
+    font-family: 'kyrilla-bold';
+    src: url(../fonts/kyrilla-black.ttf);
+}
